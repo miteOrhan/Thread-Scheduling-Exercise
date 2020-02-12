@@ -1,0 +1,18 @@
+1 start 2000 prio 20
+1 cpu 400
+
+1 io 100
+
+1 cpu 300
+
+1 end
+
+2 start 1000 prio 20
+
+2 cpu 200
+
+2 io 300
+
+2 cpu 200
+
+2 end
